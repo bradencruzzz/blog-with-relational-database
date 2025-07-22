@@ -1,0 +1,22 @@
+# Android
+.gradle
+build/
+captures/
+.idea/
+*.iml
+local.properties
+# iOS
+build/
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+*.xcworkspace/
+DerivedData/
+# Rust
+/target
+# Python
+__pycache__/
+*.pyc
+.env
+.venv
+# General
+.DS_Store
